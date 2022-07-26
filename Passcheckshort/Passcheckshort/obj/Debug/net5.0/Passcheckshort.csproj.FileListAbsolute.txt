@@ -1,0 +1,16 @@
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.exe
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.deps.json
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.runtimeconfig.json
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.runtimeconfig.dev.json
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.dll
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\ref\Passcheckshort.dll
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\bin\Debug\net5.0\Passcheckshort.pdb
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.csproj.AssemblyReference.cache
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.dll
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\ref\Passcheckshort.dll
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.pdb
+C:\Users\Anonymous\source\repos\Passcheckshort\Passcheckshort\obj\Debug\net5.0\Passcheckshort.genruntimeconfig.cache
