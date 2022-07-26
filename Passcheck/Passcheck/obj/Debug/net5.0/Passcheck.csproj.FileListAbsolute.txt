@@ -1,0 +1,16 @@
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.exe
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.deps.json
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.runtimeconfig.json
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.runtimeconfig.dev.json
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.dll
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\ref\Passcheck.dll
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\bin\Debug\net5.0\Passcheck.pdb
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.csproj.AssemblyReference.cache
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.AssemblyInfoInputs.cache
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.AssemblyInfo.cs
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.dll
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\ref\Passcheck.dll
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.pdb
+C:\Users\Anonymous\source\repos\Passcheck\Passcheck\obj\Debug\net5.0\Passcheck.genruntimeconfig.cache
