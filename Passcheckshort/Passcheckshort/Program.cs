@@ -29,6 +29,7 @@ namespace Passcheckshort
                             }
                         }
                     }
+                    reader.Close();
                     Console.WriteLine("Jó jelszók: " +passcount);
                 }
                 else
